@@ -1,0 +1,5 @@
+NOTE: This code only works in https://editor.p5js.org
+
+You can paste in the code from game.js into the editor
+
+Then click run!
